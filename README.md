@@ -1,11 +1,8 @@
 # Trabalho II — Simulador de Transmissão Digital
 
-Redes de Computadores: Internetworking, Roteamento e Transmissão — Unisinos, 2026/2
-Prof. Cristiano Bonato Both
-
 **Dupla:** Fábio Silveira e Pedro Scott
 
-**Vídeo de demonstração:** _(PLACEHOLDER ENQUANTO GRAVAMOS)_
+**Vídeo de demonstração:** https://www.youtube.com/watch?v=5T27vaFmS4Q
 
 ## 1. O que o trabalho faz
 
